@@ -55,7 +55,7 @@ To run this project, you will need the following Python packages:
 
 1. Clone this repository:
     ```bash
-    git clone [Your Repository URL]
+    git clone Sentiment-Polarity-Classification-using-Multiple-Models
     ```
 2. Navigate to the project directory:
     ```bash
